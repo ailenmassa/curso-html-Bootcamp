@@ -9,9 +9,9 @@
     <!-- Este es mi primer comentario de dos líneas
     Aprendiendo a documentar mi código con OpenBootcamp -->
 <ul>
-    <video src="https://www.youtube.com/watch?v=h2aTxmwRiJQ&list=LL&index=44">Halsey - Trouble (Stripped/Audio)</video>
-    <video src="https://www.youtube.com/watch?v=V1Pl8CzNzCw&list=LL&index=46">Billie Eilish, Khalid - lovely</video>
-    <video src="https://www.youtube.com/watch?v=BDQSaJNqjmY">Nicki Nicole - Frío (Official Video)</video>
+    <a href="https://www.youtube.com/watch?v=h2aTxmwRiJQ&list=LL&index=44">Halsey - Trouble (Stripped/Audio)</a>
+    <a href="https://www.youtube.com/watch?v=V1Pl8CzNzCw&list=LL&index=46">Billie Eilish, Khalid - lovely</a>
+    <a href="https://www.youtube.com/watch?v=BDQSaJNqjmY">Nicki Nicole - Frío (Official Video)</a>
 </ul>
    
 </body>
