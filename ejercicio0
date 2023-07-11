@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejercicio de Introducción a HTML en OpenBootcamp</title>
+</head>
+<body>
+    <!-- Este es mi primer comentario de dos líneas
+    Aprendiendo a documentar mi código con OpenBootcamp -->
+<ul>
+    <video src="https://www.youtube.com/watch?v=h2aTxmwRiJQ&list=LL&index=44">Halsey - Trouble (Stripped/Audio)</video>
+    <video src="https://www.youtube.com/watch?v=V1Pl8CzNzCw&list=LL&index=46">Billie Eilish, Khalid - lovely</video>
+    <video src="https://www.youtube.com/watch?v=BDQSaJNqjmY">Nicki Nicole - Frío (Official Video)</video>
+</ul>
+   
+</body>
+</html>
