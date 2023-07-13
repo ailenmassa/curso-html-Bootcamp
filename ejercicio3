@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejercicio 02/2 - Tablas en HTML</title>
+</head>
+<body>
+   
+    <table>
+        <tr>
+            <th>Título</th>
+            <th>Autor</th>
+            <th>Año de publicación</th>
+            <th>Enlace a Amazon</th>
+        </tr>
+        <tr>
+            <td>The foxhole court</td>
+            <td> Nora Sakavic </td>
+            <td> 2013</td>
+            <td>https://www.amazon.com.mx/gp/product/B00E9BLRUI?notRedirectToSDP=1&ref_=dbs_mng_calw_0&storeType=ebooks</td>
+        </tr>
+        <tr>
+            <td>The raven king</td>
+            <td>Nora Sakavic</td>
+            <td>2013</td>
+            <td>https://www.amazon.com.mx/gp/product/B00E9YKGAC?notRedirectToSDP=1&ref_=dbs_mng_calw_1&storeType=ebooks</td>
+        </tr>
+        <tr>
+            <td>The kings men</td>
+            <td> Nora Sakavic</td>
+            <td>2014</td>
+            <td>https://www.amazon.com.mx/gp/product/B00QHMU0PU?notRedirectToSDP=1&ref_=dbs_mng_calw_2&storeType=ebooks</td>
+        </tr>
+    </table>
+
+
+   
+
+</body>
+</html>
