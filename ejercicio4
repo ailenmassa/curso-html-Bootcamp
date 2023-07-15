@@ -14,12 +14,16 @@
 
 <div>
 <h1>Aprendiendo a utilizar los vídeos</h1>
-<video src="./bootcamp/GRIS - Reveal Trailer (TubeMP3Downloader.com).mp4" type="video/mp4" controls autoplay muted loop></video>
+<video  controls autoplay muted loop>
+<source src="./bootcamp/GRIS - Reveal Trailer (TubeMP3Downloader.com).mp4" type="video/mp4" />
+</video>
 </div>
 
 <div>
 <h1>Aprendiendo a utilizar los audios</h1>
-<audio src="./bootcamp/SaveTube.App - Gris, Pt. 2 (128 kbps).mp3"type="audio/mp3" controls autoplay loop></audio>
+<audio controls autoplay loop>
+<source src="./bootcamp/SaveTube.App - Gris, Pt. 2 (128 kbps).mp3"type="audio/mp3" />
+</audio>
 </div>
    
 
